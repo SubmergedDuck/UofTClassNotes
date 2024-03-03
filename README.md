@@ -1,0 +1,2 @@
+# UofTClassNotes
+Math, Stats, CS
